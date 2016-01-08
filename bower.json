@@ -1,0 +1,23 @@
+{
+  "name": "angular-boilerplate",
+  "version": "0.0.0",
+  "authors": [
+    "Seth Borden <sethborden@gmail.com>"
+  ],
+  "description": "Boilerplate AngularJS code to get started and use as a template",
+  "main": "app/app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "latest",
+    "foundation": "~5.5.3",
+    "angular-animate": "~1.4.8",
+    "angular-route": "~1.4.8"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "angular-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate AngularJS code to get started and use as templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seth Borden",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^1.3.2"
+  }
+}
